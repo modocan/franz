@@ -96,6 +96,11 @@ export default class EditServiceScreen extends Component {
           value: service.isNotificationEnabled,
           default: true,
         },
+        isPrivateNotificationEnabled: {
+          label: "Private Notifications",
+          value: service.isPrivateNotificationEnabled,
+          default: true,
+        },
         isBadgeEnabled: {
           label: intl.formatMessage(messages.enableBadge),
           value: service.isBadgeEnabled,
