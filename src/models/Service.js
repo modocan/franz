@@ -23,6 +23,7 @@ export default class Service {
   @observable team = '';
   @observable customUrl = '';
   @observable isNotificationEnabled = true;
+  @observable isPrivateNotificationEnabled = false;
   @observable isBadgeEnabled = true;
   @observable isIndirectMessageBadgeEnabled = true;
   @observable iconUrl = '';
@@ -55,6 +56,8 @@ export default class Service {
 
     this.isNotificationEnabled = data.isNotificationEnabled !== undefined
       ? data.isNotificationEnabled : this.isNotificationEnabled;
+
+    this.isPrivateNotificationEnabled = data.isPrivateNotificationEnabled !== undefined ? data.isPrivateNotificationEnabled : this.isPrivateNotificationEnabled;
 
     this.isBadgeEnabled = data.isBadgeEnabled !== undefined
       ? data.isBadgeEnabled : this.isBadgeEnabled;

@@ -344,6 +344,10 @@ export default class ServicesStore extends Store {
         const title = typeof args[0].title === 'string' ? args[0].title : service.name;
         options.body = typeof options.body === 'string' ? options.body : '';
 
+        if (service.isPrivateNotificationEnabled) {
+          options.body = "<i>Private message</i>";
+        }
+
         this.actions.app.notify({
           notificationId: args[0].notificationId,
           title,
