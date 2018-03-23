@@ -96,6 +96,7 @@
   "settings.service.form.saveButton": "儲存",
   "settings.service.form.deleteButton": "刪除",
   "settings.service.form.availableServices": "可用服務",
+  "settings.service.form.enablePrivateNotifications": "私人通知",
   "settings.service.form.yourServices": "您的服務",
   "settings.service.form.addServiceHeadline": "新增 {name}",
   "settings.service.form.editServiceHeadline": "更改 {name}",

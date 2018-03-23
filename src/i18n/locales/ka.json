@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "Enable audio",
    "settings.service.form.enableBadge" : "Show unread message badges",
    "settings.service.form.enableNotification" : "შეტყობინებების ჩართვა",
+   "settings.service.form.enablePrivateNotifications": "შეტყობინების შეტყობინებები",
    "settings.service.form.enableService" : "სერვისის ჩართვა",
    "settings.service.form.headlineBadges" : "Unread message badges",
    "settings.service.form.headlineGeneral" : "მთავარი",

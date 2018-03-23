@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "Audio aktivieren",
    "settings.service.form.enableBadge" : "Nachrichten-Badge anzeigen",
    "settings.service.form.enableNotification" : "Benachrichtigungen aktivieren",
+   "settings.service.form.enablePrivateNotifications": "Private Benachrichtigungen",
    "settings.service.form.enableService" : "Dienst aktivieren",
    "settings.service.form.headlineBadges" : "Nachrichten-Badge",
    "settings.service.form.headlineGeneral" : "Allgemeines",

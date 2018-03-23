@@ -9,8 +9,6 @@ class Notification {
     this.options = options;
     this.notificationId = uuidV1();
 
-    console.log(this);
-
     ipcRenderer.sendToHost('notification', this.onNotify({
       title: this.title,
       options: this.options,

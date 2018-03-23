@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "Activa l'àudio",
    "settings.service.form.enableBadge" : "Mostra les insígnies als missatges no llegits.",
    "settings.service.form.enableNotification" : "Activa les notificacions",
+   "settings.service.form.enablePrivateNotifications": "Notificacions privades",
    "settings.service.form.enableService" : "Activa el servei",
    "settings.service.form.headlineBadges" : "Insígnies de missatges no llegits",
    "settings.service.form.headlineGeneral" : "General",

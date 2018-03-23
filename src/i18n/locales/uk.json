@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "Увімкнути звук",
    "settings.service.form.enableBadge" : "Show unread message badges",
    "settings.service.form.enableNotification" : "Увімкнути сповіщення",
+   "settings.service.form.enablePrivateNotifications": "Приватні сповіщення",
    "settings.service.form.enableService" : "Увімкнути сервіс",
    "settings.service.form.headlineBadges" : "Unread message badges",
    "settings.service.form.headlineGeneral" : "Загальні",

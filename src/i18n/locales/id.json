@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "Aktifkan audio",
    "settings.service.form.enableBadge" : "Tampilkan lencana pesan belum dibaca",
    "settings.service.form.enableNotification" : "Aktifkan pemberitahuan",
+   "settings.service.form.enablePrivateNotifications": "Pemberitahuan pribadi",
    "settings.service.form.enableService" : "Aktifkan layanan",
    "settings.service.form.headlineBadges" : "Lencana pesan belum dibaca",
    "settings.service.form.headlineGeneral" : "Umum",

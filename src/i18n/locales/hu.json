@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "Hang engedélyezése",
    "settings.service.form.enableBadge" : "Mutasd az olvasatlan jelzéseket",
    "settings.service.form.enableNotification" : "Értesítések engedélyezése",
+   "settings.service.form.enablePrivateNotifications": "Privát értesítések",
    "settings.service.form.enableService" : "Szolgáltatás engedélyezése",
    "settings.service.form.headlineBadges" : "Olvasatlan üzenet jelzések",
    "settings.service.form.headlineGeneral" : "Általános",

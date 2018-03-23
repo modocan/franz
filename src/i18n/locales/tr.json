@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "Sesi etkinleştirin",
    "settings.service.form.enableBadge" : "Okunmamış mesajları göster",
    "settings.service.form.enableNotification" : "Bildirimleri etkinleştir",
+   "settings.service.form.enablePrivateNotifications": "Özel bildirimler",
    "settings.service.form.enableService" : "Servisi etkinleştir",
    "settings.service.form.headlineBadges" : "Okunmamış mesajlar",
    "settings.service.form.headlineGeneral" : "Genel",

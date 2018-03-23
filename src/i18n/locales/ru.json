@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "Включить звук",
    "settings.service.form.enableBadge" : "Показывать иконку непрочитанных сообщений",
    "settings.service.form.enableNotification" : "Включить уведомления",
+   "settings.service.form.enablePrivateNotifications": "Частные уведомления",
    "settings.service.form.enableService" : "Включить сервис",
    "settings.service.form.headlineBadges" : "Значки непрочитанных сообщений",
    "settings.service.form.headlineGeneral" : "Общие",

@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "Enable audio",
    "settings.service.form.enableBadge" : "Show unread message badges",
    "settings.service.form.enableNotification" : "Notificaties aanzetten",
+   "settings.service.form.enablePrivateNotifications": "Private notifications",
    "settings.service.form.enableService" : "Service aanzetten",
    "settings.service.form.headlineBadges" : "Unread message badges",
    "settings.service.form.headlineGeneral" : "Algemeen",

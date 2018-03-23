@@ -135,6 +135,7 @@
   "settings.service.form.name": "Ім'я",
   "settings.service.form.enableService": "Увімкнути сервіс",
   "settings.service.form.enableNotification": "Увімкнути сповіщення",
+  "settings.service.form.enablePrivateNotifications": "Приватні сповіщення",
   "settings.service.form.team": "Команда",
   "settings.service.form.customUrl": "Користувацький сервер",
   "settings.service.form.indirectMessages": "Показувати значок повідомлення для всіх нових повідомлень",

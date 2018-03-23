@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "Omogućite zvuk",
    "settings.service.form.enableBadge" : "Show unread message badges",
    "settings.service.form.enableNotification" : "Omogućite obavijesti",
+   "settings.service.form.enablePrivateNotifications": "Private notifications",
    "settings.service.form.enableService" : "Omogućite usluge",
    "settings.service.form.headlineBadges" : "Unread message badges",
    "settings.service.form.headlineGeneral" : "Općenito",

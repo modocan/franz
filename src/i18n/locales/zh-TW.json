@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "啟用音訊",
    "settings.service.form.enableBadge" : "Show unread message badges",
    "settings.service.form.enableNotification" : "啟用通知",
+   "settings.service.form.enablePrivateNotifications": "私人通知",
    "settings.service.form.enableService" : "啟用服務",
    "settings.service.form.headlineBadges" : "Unread message badges",
    "settings.service.form.headlineGeneral" : "一般",

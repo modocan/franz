@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "Zapnúť zvuk",
    "settings.service.form.enableBadge" : "Ukázať odznaky neprečítaných správ",
    "settings.service.form.enableNotification" : "Povoliť oznámenia",
+   "settings.service.form.enablePrivateNotifications": "Súkromné ​​upozornenia",
    "settings.service.form.enableService" : "Povoliť službu",
    "settings.service.form.headlineBadges" : "Odznaky neprečítaných správ",
    "settings.service.form.headlineGeneral" : "Všeobecné",

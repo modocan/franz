@@ -136,6 +136,7 @@
   "settings.service.form.name": "Navn",
   "settings.service.form.enableService": "Slå på tjeneste",
   "settings.service.form.enableNotification": "Slå på varsler",
+  "settings.service.form.enablePrivateNotifications": "Private meldinger",
   "settings.service.form.team": "Lag",
   "settings.service.form.customUrl": "Egendefinert server",
   "settings.service.form.indirectMessages": "Vis merke for alle nye meldinger",

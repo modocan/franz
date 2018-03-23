@@ -345,7 +345,7 @@ export default class ServicesStore extends Store {
         options.body = typeof options.body === 'string' ? options.body : '';
 
         if (service.isPrivateNotificationEnabled) {
-          options.body = "<i>Private message</i>";
+          options.body = '<i>Private message</i>';
         }
 
         this.actions.app.notify({

@@ -166,6 +166,7 @@
    "settings.service.form.enableAudio" : "オーディオを有効にする",
    "settings.service.form.enableBadge" : "未読件数の通知バッジを表示する",
    "settings.service.form.enableNotification" : "通知を有効にする",
+   "settings.service.form.enablePrivateNotifications": "プライベート通知",
    "settings.service.form.enableService" : "サービスを有効にする",
    "settings.service.form.headlineBadges" : "未読件数の通知バッジ",
    "settings.service.form.headlineGeneral" : "一般",
