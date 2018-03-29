@@ -283,10 +283,10 @@ export default class EditServiceForm extends Component {
                   <h3>{intl.formatMessage(messages.headlineNotifications)}</h3>
                   <Toggle field={form.$('isNotificationEnabled')} />
                   <Toggle field={form.$('isMuted')} />
-                  <Toggle field={form.$('isPrivateNotificationEnabled')} default={false} />
                   <p className="settings__help">
                     {intl.formatMessage(messages.isMutedInfo)}
                   </p>
+                  <Toggle field={form.$('isPrivateNotificationEnabled')} default={false} />
                 </div>
 
                 <div className="settings__settings-group">
