@@ -1,6 +1,7 @@
 // import { remote } from 'electron';
 import { action, computed, observable } from 'mobx';
 import { debounce, remove } from 'lodash';
+import { defineMessages, intlShape } from 'react-intl';
 // import path from 'path';
 // import fs from 'fs-extra';
 
@@ -12,6 +13,12 @@ import { gaEvent } from '../lib/analytics';
 
 const debug = require('debug')('ServiceStore');
 
+const messages = defineMessages({
+  privateMsg: {
+    id: 'store.service.message.private',
+    defaultMessage: '!!!Private Message'
+  }
+});
 export default class ServicesStore extends Store {
   @observable allServicesRequest = new CachedRequest(this.api.services, 'all');
   @observable createServiceRequest = new Request(this.api.services, 'create');
@@ -345,7 +352,7 @@ export default class ServicesStore extends Store {
         options.body = typeof options.body === 'string' ? options.body : '';
 
         if (service.isPrivateNotificationEnabled) {
-          options.body = '<i>Private message</i>';
+          options.body = `<i>${intlShape.formatMessage(messages.privateMsg)}</i>`;
         }
 
         this.actions.app.notify({
