@@ -26,6 +26,10 @@ const messages = defineMessages({
     id: 'settings.service.form.enableNotification',
     defaultMessage: '!!!Enable Notifications',
   },
+  enablePrivateNotifications: {
+    id: 'settings.service.form.enablePrivateNotifications',
+    defaultMessage: '!!!Enable Private Notifications',
+  },
   enableBadge: {
     id: 'settings.service.form.enableBadge',
     defaultMessage: '!!!Show unread message badges',
@@ -97,7 +101,7 @@ export default class EditServiceScreen extends Component {
           default: true,
         },
         isPrivateNotificationEnabled: {
-          label: "Private Notifications",
+          label: intl.formatMessage(messages.enablePrivateNotifications),
           value: service.isPrivateNotificationEnabled,
           default: true,
         },
