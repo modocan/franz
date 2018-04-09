@@ -201,6 +201,7 @@
   "service.crashHandler.autoReload": "Trying to automatically restore {name} in {seconds} seconds",
   "service.disabledHandler.headline": "{name} is disabled",
   "service.disabledHandler.action": "Enable {name}",
+  "store.service.message.private": "Private message",
   "menu.edit": "Edit",
   "menu.edit.undo": "Undo",
   "menu.edit.redo": "Redo",

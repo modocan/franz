@@ -149,6 +149,7 @@
   "settings.user.form.accountType.individual": "Individuell",
   "settings.user.form.accountType.non-profit": "Non-Profit",
   "settings.user.form.accountType.company": "Firma",
+  "store.service.message.private": "Privat melding",
   "subscription.type.free": "gratis",
   "subscription.type.month": "måned",
   "subscription.type.year": "år",

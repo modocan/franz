@@ -148,6 +148,7 @@
   "settings.user.form.accountType.individual": "個人",
   "settings.user.form.accountType.non-profit": "非營利",
   "settings.user.form.accountType.company": "公司",
+  "store.service.message.private": "私人信息",
   "subscription.type.free": "免費",
   "subscription.type.month": "月",
   "subscription.type.year": "年",

@@ -148,6 +148,7 @@
   "settings.user.form.accountType.individual": "Індивідуальний",
   "settings.user.form.accountType.non-profit": "Некомерційний",
   "settings.user.form.accountType.company": "Компанія",
+  "store.service.message.private": "Private message",
   "subscription.type.free": "безплатно",
   "subscription.type.month": "місяць",
   "subscription.type.year": "рік",

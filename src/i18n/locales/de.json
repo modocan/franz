@@ -217,6 +217,7 @@
    "signup.link.login" : "Du hast bereits ein Konto? Melde dich an.",
    "signup.password.label" : "Passwort",
    "signup.submit.label" : "Konto erstellen",
+   "store.service.message.private": "Private Nachricht", 
    "subscription.euTaxInfo" : "Preise sind exklusive Steuern.",
    "subscription.features.ads" : "Nie mehr Werbung!",
    "subscription.features.comingSoon" : "folgt bald",

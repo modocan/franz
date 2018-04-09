@@ -217,6 +217,7 @@
    "signup.link.login" : "Vous avez déjà un compte ? Connectez-vous",
    "signup.password.label" : "Mot de passe",
    "signup.submit.label" : "Créer un compte",
+   "store.service.message.private": "Message privé",
    "subscription.euTaxInfo" : "Résidents de l'UE : une taxe locale peut s'appliquer",
    "subscription.features.ads" : "Plus de pubs !",
    "subscription.features.comingSoon" : "Bientôt disponible",
